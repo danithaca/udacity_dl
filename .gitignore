@@ -1,3 +1,10 @@
+# no need for data files
+*.tar.gz
+*.pickle
+notMNIST_large
+notMNIST_small
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
